@@ -8,6 +8,7 @@ const StyledDiv = styled.div`
     border-radius: 15px;
     padding: 15px;
     gap: 10px;
+    font-family: "Roboto", sans-serif;
   }
 
   .Title {
